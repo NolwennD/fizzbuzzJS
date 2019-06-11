@@ -1,5 +1,9 @@
 {
   "scripts": {
-    "test": "jest"
+    "test": "jest --no-cache ./*",
+    "watch": "jest --no-cache --watch ./*"
+},
+  "devDependencies": {
+    "jest": "^24.3.1"
   }
 }
