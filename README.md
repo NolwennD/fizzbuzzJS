@@ -9,6 +9,6 @@ Installer node.js en allant par là -> https://nodejs.org/en/
 
 Faire `npm install`
 
-Pour lancer les tests, se placer dans le dossier et `npm test`
+Pour lancer les tests, se placer dans le dossier et `npm test` ou `npm run watch` pour un lancement à chaque enregistrement des fichiers.
 
 Pour tester une string il faut utiliser `expect(fizzbuzz(3)).toMatch('Fizz')`
