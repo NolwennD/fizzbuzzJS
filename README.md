@@ -1,7 +1,7 @@
 # Kata FizzBuzz
 ## Règles
 * Si l'entrée est un multiple de trois retourne Fizz.
-* Si l'entrée est un mulitple de cing retourne Buzz.
+* Si l'entrée est un mulitple de cinq retourne Buzz.
 * Si l'entrée est un multiple de trois et cinq retourne FizzBuzz.
 * Autrement retourne l'entrée.
 ## Utilisation
